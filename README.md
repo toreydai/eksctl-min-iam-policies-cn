@@ -1,7 +1,7 @@
 # eksctl-min-iam-policies-cn
-Amazon EKS中国区最小IAM策略
+Amazon EKS中国区最小 IAM 策略
 
-本文档描述了运行eksctl的主要用例所需的最低IAM策略。这些是用于运行集成测试的。
+本文档描述了运行eksctl的主要用例所需的最小 IAM 策略。这些是用于运行集成测试的。
 
 注意：记住将 <account_id> 替换为您自己的。
 
